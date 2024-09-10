@@ -1,5 +1,5 @@
-# ML-Classificacao
-Progresso aprendendo sobre Machine Learning
+# ML-Classification
+Learning Machine Learning
 
-Publicando meu progresso no curso Machine Learning com Python: Classificação que estou fazendo na Alura.
-  Cada notebook jupyter postado equivale ao conteúdo de um dos cursos que compõe essa formação em machine learning.
+Publishing my progress while studying at Alura's Machine Learning with Python: Classification.
+  Each published notebook correspond to the content of each course in the Machine Learning formation I'm doing 
