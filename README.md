@@ -17,4 +17,4 @@ This repository documents my progress while learning Machine Learning with Pytho
    - Ensemble learning techniques like Random Forest and Gradient Boosting to enhance model performance.
 
 ## About the Course
-This course covers various aspects of Machine Learning, including supervised and unsupervised methods, data preprocessing, model tuning, and more.
+This course covers various aspects of Machine Learning, including supervised and semi-supervised methods, data preprocessing, model tuning, and more.
