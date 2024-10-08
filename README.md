@@ -13,8 +13,14 @@ This repository documents my progress while learning Machine Learning with Pytho
 3. **[03-Feature-Selection.ipynb](https://github.com/devdebdeb/ML-Classificacao/blob/main/03-Feature-Selection.ipynb)**
    - Feature selection methods, including LASSO and Recursive Feature Elimination (RFE).
 
-4. **[04-Combinating-Classifiers.ipynb](https://github.com/devdebdeb/ML-Classificacao/blob/main/04-Combinating-Classifiers.ipynb)**
+4. **[04-Combining-Classifiers.ipynb](https://github.com/devdebdeb/ML-Classificacao/blob/main/04-Combinating-Classifiers.ipynb)**
    - Ensemble learning techniques like Random Forest and Gradient Boosting to enhance model performance.
+
+5. **[05-XGBoost-Classification.ipynb](https://github.com/devdebdeb/ML-Classificacao/blob/main/05-XGBoost-Classification.ipynb)**
+   - Using XGBoost to solve classification problems, tuning of hiper-params and performance analysis
+
+6. **[06-Semi-Supervised.ipynb](https://github.com/devdebdeb/ML-Classificacao/blob/main/06-Semi-Supervised.ipynb)**
+   - Introduction to semi-supervised learning by solving classification problems 
 
 ## About the Course
 This course covers various aspects of Machine Learning, including supervised and semi-supervised methods, data preprocessing, model tuning, and more.
